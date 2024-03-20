@@ -1,0 +1,39 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+
+}
+
+h1 {
+  font-size: 1.5em;
+  line-height: 0.1;
+}
+
+#compA, #compB, #compC, #compD, #compE {
+  padding: 0.5px; /* Haciendo los elementos más pequeños */
+  margin-left: 10px; /* Reducción del margen izquierdo */
+  padding-left: 0.5px; /* Reducción del padding izquierdo */
+}
+
+#compA {
+  background-color: #FFCCCC; /* Color pastel para #compA */
+}
+
+#compB {
+  background-color: #FFB6B6; /* Color pastel para #compB */
+}
+
+#compC {
+  background-color: #FF9999; /* Color pastel para #compC */
+}
+
+#compD {
+  background-color: #FF8080; /* Color pastel para #compD */
+}
+
+#compE {
+  background-color: #FF6666; /* Color pastel para #compE */
+}
